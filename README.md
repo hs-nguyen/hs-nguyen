@@ -7,4 +7,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs-nguyen&show_icons=true&theme=transparent&bg_color=00000000)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hs-nguyen&theme=meta-light&hide_border=true)](https://git.io/streak-stats)
-![hs-nguyen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hs-nguyen&theme=vue&show_icons=true&hide_border=true&layout=compact)
+![hs-nguyen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hs-nguyen&theme=default&show_icons=true&hide_border=true&layout=compact)
