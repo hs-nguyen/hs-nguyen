@@ -5,4 +5,4 @@
 📫 Contact me: [Email](mailto:hs_nguyen@outlook.com) | [LinkedIn](https://linkedin.com/in/nguyen-huu-sang)  
 ✍ Blog: [hs-nguyen.hashnode.dev](https://hs-nguyen.hashnode.dev/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyen-sang&show_icons=true&theme=transparent)
