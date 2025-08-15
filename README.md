@@ -1,5 +1,5 @@
-### Hi there! I'm Sang
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AWS+First+Cloud+Journey)](https://git.io/typing-svg)
+# Hi there :v: I'm Sang
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Cloud+Intern!+AWS+First+Cloud+Journey)](https://git.io/typing-svg)
 
 🌱 Currently learning **AWS & System Administration**  
 💡 Interested in **Cloud, DevOps, and Automation**  
