@@ -1,11 +1,7 @@
-
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1937F7&width=435&lines=Hello+worlds)](https://git.io/typing-svg)
+### Hi I'm Sang 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Engineer+%7C+FCAJ+Community)](https://git.io/typing-svg)
 🌱 Currently learning **AWS & System Administration**  
 💡 Interested in **Cloud, DevOps, and Automation**  
-📫 Contact me: [Email](mailto:hs_nguyen@outlook.com) | [LinkedIn](https://linkedin.com/in/nguyen-huu-sang)  
-✍ Blog: [hs-nguyen.hashnode.dev](https://hs-nguyen.hashnode.dev/)
+📫 Connect with me: [Email](mailto:hs_nguyen@outlook.com) | [LinkedIn](https://linkedin.com/in/nguyen-huu-sang)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs-nguyen&show_icons=true&theme=transparent&bg_color=00000000)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hs-nguyen&theme=meta-light&hide_border=true)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=NguyenSang&short_numbers=true)](https://git.io/streak-stats)
